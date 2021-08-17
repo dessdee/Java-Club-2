@@ -1,7 +1,7 @@
 # Java-Club-2
 
 ## Team 1
-Androshchuk Iryna  
+Solomchak Ivan 
 Bohush Sviatoslav  
 Yanio Yura  
 Danihevych Oleksandr  
@@ -21,7 +21,7 @@ Skolodza Pavlo
 
 ## Team 4
 Slobodyanyuk Bogdan  
-Solomchak Ivan  
+Androshchuk Iryna  
 Stanasiuk Oleg  
 Voronko Eugene  
 
