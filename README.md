@@ -2,32 +2,32 @@
 
 ## Team 1
 Androshchuk Iryna  
-Bohush Sviatoslav 
-Yanio Yura 
-Danihevych Oleksandr 
+Bohush Sviatoslav  
+Yanio Yura  
+Danihevych Oleksandr  
 
 ## Team 2
-Kondra Artur 
-Krasitskyi Taras 
-Kupets Dmytro 
-Kuzo Yurii 
+Kondra Artur  
+Krasitskyi Taras  
+Kupets Dmytro  
+Kuzo Yurii  
 
 ## Team 3
-Medyk Mykhailo 
-Mykhalchenko Viacheslav 
-Sannytski Dmytro 
-Shauerman Hanna 
-Skolodza Pavlo 
+Medyk Mykhailo  
+Mykhalchenko Viacheslav  
+Sannytski Dmytro  
+Shauerman Hanna  
+Skolodza Pavlo  
 
 ## Team 4
-Slobodyanyuk Bogdan 
-Solomchak Ivan 
-Stanasiuk Oleg 
-Voronko Eugene 
+Slobodyanyuk Bogdan  
+Solomchak Ivan  
+Stanasiuk Oleg  
+Voronko Eugene  
 
 ## Team 5
-Diakiv Marta 
-Maksym Kuzbyt 
-Votus Liubomyr 
-Kychma Nazar 
-Huzar Dmitry 
+Diakiv Marta  
+Maksym Kuzbyt  
+Votus Liubomyr  
+Kychma Nazar  
+Huzar Dmitry  
