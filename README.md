@@ -1,7 +1,7 @@
 # Java-Club-2
 
 ## Team 1
-Androshchuk Iryna 
+Androshchuk Iryna  
 Bohush Sviatoslav 
 Yanio Yura 
 Danihevych Oleksandr 
