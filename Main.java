@@ -23,9 +23,10 @@ public class Main {
 				
 				Task.main(args);
 				
-			case 4:
-				 
-				Task4.main();
+			case 2:
+				Task2.main(args);
+				
+			
 			
 			}
 			
