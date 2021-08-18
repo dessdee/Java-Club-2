@@ -29,32 +29,32 @@ public class Task10 {
     public static void main(String[] args) {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int age = 0;
-        try{
+        try {
             System.out.println("Please enter your age: ");
             age = Integer.parseInt(br.readLine());
         } catch (IOException e) {
             e.printStackTrace();
-        } catch (NumberFormatException e){
+        } catch (NumberFormatException e) {
             System.err.println("Not a number!");
         }
-        System.out.println("age = " + age + "   =>  " +datingRange(age));
+        System.out.println(datingRange(age));
     }
 
     public static String datingRange(int age) {
         //return min-max
-        int min=0;
-        int max=0;
-        if( age < 1 || age > 100){
-            System.out.println("Wrong age.");
-        } else{
-            if(age <= 14){
+        int min = 0;
+        int max = 0;
+        if (age < 1 || age > 100) {
+            return "Wrong age!";
+        } else {
+            if (age <= 14) {
                 min = (int) (age - 0.10 * age);
                 max = (int) (age + 0.10 * age);
-            } else{
-                min = age/2 + 7;
-                max = (age - 7)*2;
+            } else {
+                min = age / 2 + 7;
+                max = (age - 7) * 2;
             }
         }
-        return min + "-" + max;
+        return "age = " + age + "   =>   " + min + "-" + max;
     }
 }
