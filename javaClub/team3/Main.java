@@ -8,42 +8,56 @@ public class Main {
     public static void main(String[] args) {
         int taskNumber = 0;
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        System.out.println("Please enter task number: ");
-        try {
-            taskNumber = Integer.parseInt(br.readLine());
-        } catch (IOException e) {
-            e.printStackTrace();
-        } catch (NumberFormatException e){
-            System.err.println("Not a number!");
-        }
 
-        while(true){
-            switch (taskNumber){
+        while (true) {
+            System.out.println("Please enter task number: ");
+            try {
+                taskNumber = Integer.parseInt(br.readLine());
+            } catch (IOException e) {
+                e.printStackTrace();
+            } catch (NumberFormatException e) {
+                System.err.println("Not a number!");
+            }
+
+            switch (taskNumber) {
                 case 1:
                     //Task1.main();
+                    break;
                 case 2:
-                    //Task1.main();
+                    //Task2.main();
+                    break;
                 case 3:
-                    //Task1.main();
+                    //Task3.main();
+                    break;
                 case 4:
-                    //Task1.main();
+                    //Task4.main();
+                    break;
                 case 5:
-                    //Task1.main();
+                    Task5.main(args);
+                    break;
                 case 6:
-                    //Task1.main();
+                    //Task6.main();
+                    break;
                 case 7:
-                    //Task1.main();
+                    //Task7.main();
+                    break;
                 case 8:
-                    //Task1.main();
+                    //Task8.main();
+                    break;
                 case 9:
-                    //Task1.main();
+                    //Task9.main();
+                    break;
                 case 10:
-                    //Task1.main();
+                    //Task10.main();
+                    break;
                 case 11:
-                    //Task1.main();
+                    //Task11.main();
+                    break;
                 default:
                     System.err.println("Wrong task number!");
             }
+
+
         }
     }
 }
