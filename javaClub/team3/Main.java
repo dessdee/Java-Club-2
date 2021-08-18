@@ -30,7 +30,7 @@ public class Main {
                     //Task3.main();
                     break;
                 case 4:
-                    //Task4.main();
+                    Task4.main(args);
                     break;
                 case 5:
                     Task5.main(args);
@@ -45,7 +45,7 @@ public class Main {
                     //Task8.main();
                     break;
                 case 9:
-                    //Task9.main();
+                    Task9.main(args);
                     break;
                 case 10:
                     Task10.main(args);
