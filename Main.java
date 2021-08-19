@@ -24,13 +24,16 @@ public class Main {
 				Task.main(args);
 				
 			case 2:
+				
 				Task2.main(args);
 				
 			case 3
 			
+				Task3.main(args);
+			
 			case 4
 			
-			case 5
+				Task4.main(args);
 			
 			case 6
 				Task6.main(args);
