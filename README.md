@@ -1,8 +1,6 @@
 # Java-Club-2
-## Team 5
-Diakiv Marta  
-Maksym Kuzbyt  
-Votus Liubomyr  
-Kychma Nazar  
-Huzar Dmitry  
-
+## Team 2
+Kondra Artur
+Krasitskyi Taras
+Kupets Dmytro
+Kuzo Yurii
