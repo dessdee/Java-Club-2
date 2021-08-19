@@ -26,6 +26,8 @@ public class Main {
 			case 2:
 				Task2.main(args);
 				
+			case 3
+				Task6.main(args);
 			
 			
 			}
